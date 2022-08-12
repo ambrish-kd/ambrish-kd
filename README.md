@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ambrish Dubey.
+- 🎓 Pursuing Graduation in Computer Science Engineering.
+- 🔍 Love to explore and learn new technologies.
