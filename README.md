@@ -42,5 +42,5 @@
 
 <p align="right">
   <a href="https://ambrishkd.hashnode.dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.15.0/icons/hashnode.svg" alt="ambrishkd" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/ambrishdubey/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ambrishdubey" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ambrishdubey/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.15.0/icons/linkedin.svg" alt="ambrishdubey" height="30" width="40" /></a>
 </p>
