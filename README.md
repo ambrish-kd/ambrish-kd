@@ -31,10 +31,12 @@
 
 <!-- Views and Visitor Count Section -->
 
+<!--
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=ambrish-kd&style=plastic&label=Views"><img>
   <img src="https://badges.pufler.dev/visits/ambrish-kd/ambrish-kd?color=black&logo=github" />
 </p>
+-->
 
 <!-- Connect with me Section -->
 
