@@ -27,7 +27,9 @@
 
 <h1></h1>
 
+<!--
 <br/>
+-->
 
 <!-- Views and Visitor Count Section -->
 
