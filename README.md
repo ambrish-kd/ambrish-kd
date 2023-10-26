@@ -25,7 +25,9 @@
 
 <br/>
 
+<!--
 <h1></h1>
+-->
 
 <!--
 <br/>
@@ -42,9 +44,11 @@
 
 <!-- Connect with me Section -->
 
+<!--
 <h3 align="right">Connect with Me</h3>
 
 <p align="right">
   <a href="https://ambrishkd.hashnode.dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.15.0/icons/hashnode.svg" alt="ambrishkd" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/ambrishdubey/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.15.0/icons/linkedin.svg" alt="ambrishdubey" height="30" width="40" /></a>
 </p>
+-->
