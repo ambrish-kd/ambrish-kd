@@ -19,7 +19,6 @@
 
 <h3 align="left">Latest Blog posts ⌨️: </h3>
 
-- [Coming soon...](https://ambrishkd.hashnode.dev/)
 - [DevOps: What is DevOps?](https://ambrishkd.hashnode.dev/what-is-devops)
 - [Cascading Style Sheet: Useful Shorthand Properties](https://ambrishkd.hashnode.dev/css-useful-shorthand-properties)
 - [Git Cheat Sheet: Your Handy Quick Reference](https://ambrishkd.hashnode.dev/git-cheat-sheet)
